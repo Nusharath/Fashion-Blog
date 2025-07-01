@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+th, td {
+  background-color: #96D4D4;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 20px;
+}
+}
+</style>
+</head>
+<body>
+
+<h2>Name</h2>
+<p>Name</p>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Fazal</td>
+    <td>Uddin</td>
+    <td>45</td></td>
+  </tr>
+  <tr>
+    <td>Jamal</td>
+    <td>uddin</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>Nouman</td>
+    <td>Zuber</td>
+    <td>20</td>
+  </tr>
+</table>
+
+</body>
+</html>
+

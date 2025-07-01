@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Nushu's Blog</title>
+</head>
+<body>
+  <h1>Fashion Blog</h1>
+  <p>Welcome to my simple blog about fashion and beauty!</p>
+
+  <h2>🌸 Summer Outfit Ideas</h2>
+  <p>Flowy dresses, pastel colors, and big sunglasses are perfect for summer.</p>
+
+  <h2>💅 Skincare Routine</h2>
+  <p>Use cleanser, toner, serum, and sunscreen every day for glowing skin.</p>
+
+  <h2>👠 Top Accessories</h2>
+  <p>Chunky earrings, cute bags, and stylish shoes complete any outfit.</p>
+
+  <hr>
+  <p>&copy; FB</p>
+</body>
+</html>
